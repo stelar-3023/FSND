@@ -12,3 +12,6 @@ DEBUG = True
 
 # TODO IMPLEMENT DATABASE URL
 SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:H3rcul3$@localhost:5432/fyyurproject'
+
+# psql vs code terminal
+# psql -U postgres
